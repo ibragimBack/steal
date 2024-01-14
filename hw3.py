@@ -24,5 +24,3 @@ class Bank:
         self._balanse += self._balanse
 
 
-
-
